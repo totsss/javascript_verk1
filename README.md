@@ -3,7 +3,7 @@
 svar : null gæti þýtt ekki neitt eða bara tómt "value", undefined gæti verið breyta sem er til en hefur ekki útskýrt hvað "value" er.
 
 2. Hvað gerir 'use strict' í JavaScript kóða?
-svar: þegar maður gerir ´use strict" þá virkar ferlið eins og "strict mode" og þá verður ferlið strangara, t.d. þú mátt ekki gera óskýrar breytur, og þá fær maður minna af villum í kóðanum, 'use strict' var nýtt í ECMAScript 5.
+svar: þegar maður gerir ´use strict' þá virkar ferlið eins og "strict mode" og þá verður ferlið strangara, t.d. þú mátt ekki gera óskýrar breytur, og þá fær maður minna af villum í kóðanum, 'use strict' var nýtt í ECMAScript 5.
 
 3. Hver er munurinn á let og var?
 svar :Ef þú býrð til var breytu fyrir for-lykkju eða hvað sem er, þá er enþá hægt að nota það í næsta dæmi, en ef þú myndirð gera let breytu þá er það ekki virkt fyrir önnur dæmi...
