@@ -39,6 +39,7 @@ return 8;
 }
 }
 alert(foo());
+svar: því þíðandinn færir breyturnar og function-inn upp, í python myndi utkomman vera 3 því þíðandinn færir ekki neitt.
 7. Hver er munurinn á for, for-in og for-of lykkjum?
 svar :for-in og for-of hafa ekki sama sýnishorn á hvað 'value' er svo þeir skila ekki því sama eða í sumum tilföllum þá svara þeir sirka því sama.
 
